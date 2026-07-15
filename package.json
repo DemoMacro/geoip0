@@ -37,7 +37,7 @@
     "@types/pg": "8.11.10",
     "@vercel/functions": "1.5.0",
     "drizzle-kit": "0.28.1",
-    "drizzle-orm": "0.36.4",
+    "drizzle-orm": "0.45.2",
     "ip2location-nodejs": "9.6.1",
     "nitropack": "2.9.7",
     "papaparse": "5.4.1",
