@@ -39,7 +39,7 @@
     "drizzle-kit": "0.28.1",
     "drizzle-orm": "0.36.4",
     "ip2location-nodejs": "9.6.1",
-    "nitropack": "2.9.7",
+    "nitropack": "2.13.4",
     "papaparse": "5.4.1",
     "pg": "8.13.1",
     "prettier": "3.3.2",
